@@ -1,13 +1,17 @@
 # Scripting Recipes
-Community collection of script recipes (Bash, PowerShell, Perl, etc.)
+**Community collection of script recipes (Bash, PowerShell, Perl, etc.)**
+
+**Feel free to contribute your script recipes!** To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/blob/main/CONTRIBUTING.md).
 
 ## Finding a script?
 
-See [Table of Contents](https://github.com/raymelon/scripting-recipes/tree/main#table-of-contents)
+#### See [Table of Contents](https://github.com/raymelon/scripting-recipes/tree/main#table-of-contents)
 
-## Contributing
+## Contribute your favorite script recipe
 
-See [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/blob/main/CONTRIBUTING.md)
+### This repository is participating in [Hacktoberfest 2023](https://hacktoberfest.com/participation/#contributors)
+
+To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/blob/main/CONTRIBUTING.md).
 
 ## Have Questions?
 
