@@ -37,7 +37,10 @@ To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/bl
 - [user_account_management_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/user_account_management_script.bash)
 
 ### Perl
-
+- [Service_Status_Checker.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/Service_Status_Checker.pl)
+- [System_Information_Script.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/System_Information_Script.pl)
+- [user_Disk_Usage_Checker.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/user_Disk_Usage_Checker.pl)
+- [web_server_Log_Analyzer.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/web_server_Log_Analyzer.pl)
 ### Python
 
 ### Batch
