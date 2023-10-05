@@ -1,6 +1,6 @@
 # Contributing
 
-## Adding a new script
+## Adding a new script:
 
 1. Fork this repository
 2. Create a new folder, name it with your GitHub username (if it does not exist yet)
@@ -17,7 +17,7 @@
    
    Use the filename (with the extension).
 
-   Follow the markeown format below:
+   Follow the markdown format below:
     
     ```
     - [test_bash.bash](https://github.com/raymelon/scripting-recipes/blob/main/raymelon/test_bash.bash)
@@ -28,9 +28,9 @@
 ## Have Questions?
 
 1. Open an Issue.
-2. Label the issue `question`
+2. Label the issue as a `question`
 3. Write your query.
 
 ## Code of Conduct
 
-1. Be respectful on discussions
+1. Be respectful in discussions
