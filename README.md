@@ -29,13 +29,13 @@ To do so, see [CONTRIBUTING.md](CONTRIBUTING.md).
 ### Bash
 
 - [test_bash.bash](raymelon/test_bash.bash)
-- [Directory_listing_script](PreciousEddy/Directory_listing_script.bash)
-- [Disk_Usage_script](PreciousEddy/Disk_Usage_script.bash)
-- [Process_Check_Script](PreciousEddy/Process_Check_Script.bash)
-- [automated_database_backup_script](PreciousEddy/automated_database_backup_script.bash)
-- [backup_Script_with_timestamped-files](PreciousEddy/backup_Script_with_timestamped-files.bash)
-- [file_backup_script](PreciousEddy/file_backup_script.bash)
-- [user_account_management_script](PreciousEddy/user_account_management_script.bash)
+- [Directory_listing_script.bash](PreciousEddy/Directory_listing_script.bash)
+- [Disk_Usage_script.bash](PreciousEddy/Disk_Usage_script.bash)
+- [Process_Check_Script.bash](PreciousEddy/Process_Check_Script.bash)
+- [automated_database_backup_script.bash](PreciousEddy/automated_database_backup_script.bash)
+- [backup_Script_with_timestamped-files.bash](PreciousEddy/backup_Script_with_timestamped-files.bash)
+- [file_backup_script.bash](PreciousEddy/file_backup_script.bash)
+- [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
 
 ### Perl
 
