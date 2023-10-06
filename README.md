@@ -36,7 +36,7 @@ To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/bl
 - [backup_Script_with_timestamped-files](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/backup_Script_with_timestamped-files.bash)
 - [file_backup_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/file_backup_script.bash)
 - [user_account_management_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/user_account_management_script.bash)
-- [remove_stale_git_branches](Sylphritz/remove_stale_git_branches.sh)
+- [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
 
 ### Perl
 
