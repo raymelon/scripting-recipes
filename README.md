@@ -2,17 +2,17 @@
 
 **Community collection of script recipes (Bash, PowerShell, Perl, etc.)**
 
-**Feel free to contribute your script recipes!** To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/blob/main/CONTRIBUTING.md).
+**Feel free to contribute your script recipes!** To do so, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Finding a script?
 
-#### See [Table of Contents](https://github.com/raymelon/scripting-recipes/tree/main#table-of-contents)
+#### See [Table of Contents](#table-of-contents)
 
 ## Contribute your favorite script recipe
 
 ### This repository is participating in [Hacktoberfest 2023](https://hacktoberfest.com/participation/#contributors)
 
-To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/blob/main/CONTRIBUTING.md).
+To do so, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Have Questions?
 
@@ -28,28 +28,31 @@ To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/bl
 
 ### Bash
 
-- [test_bash.bash](https://github.com/raymelon/scripting-recipes/blob/main/raymelon/test_bash.bash)
-- [Directory_listing_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Directory_listing_script.bash)
-- [Disk_Usage_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Disk_Usage_script.bash)
-- [Process_Check_Script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Process_Check_Script.bash)
-- [automated_database_backup_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/automated_database_backup_script.bash)
-- [backup_Script_with_timestamped-files](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/backup_Script_with_timestamped-files.bash)
-- [file_backup_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/file_backup_script.bash)
-- [user_account_management_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/user_account_management_script.bash)
+- [test_bash.bash](raymelon/test_bash.bash)
+- [Directory_listing_script.bash](PreciousEddy/Directory_listing_script.bash)
+- [Disk_Usage_script.bash](PreciousEddy/Disk_Usage_script.bash)
+- [Process_Check_Script.bash](PreciousEddy/Process_Check_Script.bash)
+- [automated_database_backup_script.bash](PreciousEddy/automated_database_backup_script.bash)
+- [backup_Script_with_timestamped-files.bash](PreciousEddy/backup_Script_with_timestamped-files.bash)
+- [file_backup_script.bash](PreciousEddy/file_backup_script.bash)
+- [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
 - [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
-- [simple_fzf_todo](https://github.com/tusuii/scripting-recipes/blob/main/tusuii/simple_fzf_todo.bash)
+- [simple_fzf_todo](tusuii/simple_fzf_todo.bash)
 
 ### Perl
 
-- [Service_Status_Checker.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/Service_Status_Checker.pl)
-- [System_Information_Script.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/System_Information_Script.pl)
-- [user_Disk_Usage_Checker.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/user_Disk_Usage_Checker.pl)
-- [web_server_Log_Analyzer.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/web_server_Log_Analyzer.pl)
+- [Service_Status_Checker.pl](PreciousEddy/Perl/Service_Status_Checker.pl)
+- [System_Information_Script.pl](PreciousEddy/Perl/System_Information_Script.pl)
+- [user_Disk_Usage_Checker.pl](PreciousEddy/Perl/user_Disk_Usage_Checker.pl)
+- [web_server_Log_Analyzer.pl](PreciousEddy/Perl/web_server_Log_Analyzer.pl)
 
 ### Python
-- [Data_Migration_Script.py](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Python/Data_Migration_Script.py)
-- [Log_Rotation_Script.py](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Python/Log_Rotation_Script.py)
-- [Server_Provisioning_Script.py](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Python/Server_Provisioning_Script.py)
+- [Data_Migration_Script.py](PreciousEddy/Python/Data_Migration_Script.py)
+- [Log_Rotation_Script.py](PreciousEddy/Python/Log_Rotation_Script.py)
+- [Server_Provisioning_Script.py](PreciousEddy/Python/Server_Provisioning_Script.py)
+- [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
+- [simple_fzf_todo](tusuii/simple_fzf_todo.bash)
+
 ### Batch
 
 ### PowerShell
