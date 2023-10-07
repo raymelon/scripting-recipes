@@ -36,6 +36,8 @@ To do so, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [backup_Script_with_timestamped-files.bash](PreciousEddy/backup_Script_with_timestamped-files.bash)
 - [file_backup_script.bash](PreciousEddy/file_backup_script.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
+- [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
+- [simple_fzf_todo](tusuii/simple_fzf_todo.bash)
 
 ### Perl
 
@@ -45,6 +47,11 @@ To do so, see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [web_server_Log_Analyzer.pl](PreciousEddy/Perl/web_server_Log_Analyzer.pl)
 
 ### Python
+- [Data_Migration_Script.py](PreciousEddy/Python/Data_Migration_Script.py)
+- [Log_Rotation_Script.py](PreciousEddy/Python/Log_Rotation_Script.py)
+- [Server_Provisioning_Script.py](PreciousEddy/Python/Server_Provisioning_Script.py)
+- [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
+- [simple_fzf_todo](tusuii/simple_fzf_todo.bash)
 
 ### Batch
 
