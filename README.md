@@ -1,4 +1,5 @@
 # Scripting Recipes
+
 **Community collection of script recipes (Bash, PowerShell, Perl, etc.)**
 
 **Feel free to contribute your script recipes!** To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/blob/main/CONTRIBUTING.md).
@@ -35,13 +36,16 @@ To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/bl
 - [backup_Script_with_timestamped-files](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/backup_Script_with_timestamped-files.bash)
 - [file_backup_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/file_backup_script.bash)
 - [user_account_management_script](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/user_account_management_script.bash)
+- [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
 - [simple_fzf_todo](https://github.com/tusuii/scripting-recipes/blob/main/tusuii/simple_fzf_todo.bash)
 
 ### Perl
+
 - [Service_Status_Checker.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/Service_Status_Checker.pl)
 - [System_Information_Script.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/System_Information_Script.pl)
 - [user_Disk_Usage_Checker.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/user_Disk_Usage_Checker.pl)
 - [web_server_Log_Analyzer.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/web_server_Log_Analyzer.pl)
+
 ### Python
 - [Data_Migration_Script.py](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Python/Data_Migration_Script.py)
 - [Log_Rotation_Script.py](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Python/Log_Rotation_Script.py)
@@ -49,4 +53,3 @@ To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/bl
 ### Batch
 
 ### PowerShell
-
