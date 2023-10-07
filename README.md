@@ -42,7 +42,9 @@ To do so, see [CONTRIBUTING.md](https://github.com/raymelon/scripting-recipes/bl
 - [user_Disk_Usage_Checker.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/user_Disk_Usage_Checker.pl)
 - [web_server_Log_Analyzer.pl](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Perl/web_server_Log_Analyzer.pl)
 ### Python
-
+- [Data_Migration_Script.py](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Python/Data_Migration_Script.py)
+- [Log_Rotation_Script.py](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Python/Log_Rotation_Script.py)
+- [Server_Provisioning_Script.py](https://github.com/PreciousEddy/scripting-recipes/blob/main/PreciousEddy/Python/Server_Provisioning_Script.py)
 ### Batch
 
 ### PowerShell
