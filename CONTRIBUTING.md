@@ -25,7 +25,9 @@
 
 6. **Open a Pull Request** 📬
 
-# How to Create a Pull Request
+
+---
+## How to Create a Pull Request
 
 1. **Go to your forked repository on GitHub.**
 
