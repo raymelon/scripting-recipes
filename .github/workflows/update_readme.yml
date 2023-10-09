@@ -18,9 +18,6 @@ jobs:
       with:
         python-version: 3.x # Use the version of Python you need
 
-    - name: Install Dependencies
-      run: |
-        pip install -r requirements.txt # If you have any Python dependencies
-
+    
     - name: Run Script
       run: python .github/scripts/update_readme.py
