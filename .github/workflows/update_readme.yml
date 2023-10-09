@@ -1,0 +1,26 @@
+name: Update Table of Contents
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x # Use the version of Python you need
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt # If you have any Python dependencies
+
+    - name: Run Script
+      run: python .github/scripts/update_readme.py
