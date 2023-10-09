@@ -7,5 +7,5 @@ def update_readme():
     # - Sort the script filenames alphabetically
     # - Rewrite the language section
 
-if __name__ == '__main__':
-    update_readme()
+    if __name__ == '__main__':
+        update_readme()
