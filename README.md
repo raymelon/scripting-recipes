@@ -15,9 +15,9 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 ### 📚 Table of Contents
 
 - [Bash](#bash-) 🐚
-- [Perl](README.md#perl-) 🐪
-- [Python](README.md#python-) 🐍
-- [PowerShell](README.md#powershell-) 💻
+- [Perl](#perl-) 🐪
+- [Python](#python-) 🐍
+- [PowerShell](#powershell-) 💻
 
 ## ❓ Have Questions?
 
