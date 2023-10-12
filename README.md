@@ -33,6 +33,7 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Bash 🐚
 
+- [livetimr](raymelon/livetimr)
 - [automated_database_backup_script.bash](PreciousEddy/automated_database_backup_script.bash)
 - [backup_Script_with_timestamped-files.bash](PreciousEddy/backup_Script_with_timestamped-files.bash)
 - [Directory_listing_script.bash](PreciousEddy/Directory_listing_script.bash)
