@@ -4,20 +4,20 @@ Welcome to our community collection of script recipes! Whether you're working wi
 
 **Feel free to contribute your script recipes!** To do so, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## 🔍 Finding a Script?
-
-### 📚 Table of Contents
-
-- [Bash](#bash) 🐚
-- [Perl](#perl) 🐪
-- [Python](#python) 🐍
-- [PowerShell](#powershell) 💻
-
 ## 🛠️ Contribute Your Favorite Script Recipe
 
 ### This Repository is Participating in [Hacktoberfest 2023](https://hacktoberfest.com/participation/#contributors) 🎉
 
 To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## 🔍 Finding a Script?
+
+### 📚 Table of Contents
+
+- [Bash](README.md#bash) 🐚
+- [Perl](README.md#perl) 🐪
+- [Python](README.md#python) 🐍
+- [PowerShell](README.md#powershell) 💻
 
 ## ❓ Have Questions?
 
