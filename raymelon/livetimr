@@ -1,0 +1,8 @@
+#!/bin/bash
+# show a live timer
+# from https://github.com/raymelon/bash-wrappers/blob/master/livetimr
+
+while true;
+do
+	echo -ne "`date +%H:%M:%S:%N`\r";
+done
