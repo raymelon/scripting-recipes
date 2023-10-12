@@ -14,7 +14,7 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### 📚 Table of Contents
 
-- [Bash](bash-) 🐚
+- [Bash](#bash-) 🐚
 - [Perl](README.md#perl-) 🐪
 - [Python](README.md#python-) 🐍
 - [PowerShell](README.md#powershell-) 💻
