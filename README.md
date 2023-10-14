@@ -43,6 +43,7 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
 - [test_bash.bash](raymelon/test_bash.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
+- [remove_branches.bash](jsnoob921/remove_branches.bash)
 
 ### Perl 🐪
 
