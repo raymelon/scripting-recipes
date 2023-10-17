@@ -79,11 +79,11 @@ def update_readme():
             modified_lines.append(line)
 
     # Sort the script filenames alphabetically
-    script_filenames_bash.sort()
-    script_filenames_perl.sort()
-    script_filenames_python.sort()
-    script_filenames_powershell.sort()
-    script_filenames_batch.sort()
+    script_filenames_bash.sort(key=str.lower)
+    script_filenames_perl.sort(key=str.lower)
+    script_filenames_python.sort(key=str.lower)
+    script_filenames_powershell.sort(key=str.lower)
+    script_filenames_batch.sort(key=str.lower)
 
     bash_start = 0
     perl_start = 0
@@ -114,7 +114,7 @@ def update_readme():
     print(bash_start)
     print(script_filenames_bash)
     
-    modified_lines = modified_lines[0:bash_start] + script_filenames_bash
+    modified_lines = modified_lines[0:bash_start + 2] + script_filenames_bash
     readme = '\n'.join(modified_lines)
 
 
