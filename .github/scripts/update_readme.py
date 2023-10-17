@@ -59,7 +59,7 @@ def update_readme():
 
         if line.startswith('-'):
             if section_pointer == 'Bash':
-                script_filenames_bash.append(line[3:])
+                script_filenames_bash.append(line)
     
             elif section_pointer == 'Perl':
                 script_filenames_perl.append(line[3:])
