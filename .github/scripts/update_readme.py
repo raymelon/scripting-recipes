@@ -1,5 +1,7 @@
 # .github/scripts/update_readme.py
 
+import os
+
 #def update_readme():
     # Your code here to:
     # - Parse README.md
@@ -12,6 +14,7 @@
 
 
 def update_readme():
+    print(os.getcwd())
     # Parse README.md
     with open('README.md', 'r') as f:
         readme = f.read()
@@ -19,6 +22,7 @@ def update_readme():
     # Extract script filenames
     script_filenames = []
     for line in readme.split('\n'):
+        print(line)
         if line.startswith('`python') and line.endswith('`'):
             script_filenames.append(line[9:-4])
 
