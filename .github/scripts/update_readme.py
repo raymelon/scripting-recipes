@@ -87,7 +87,7 @@ def update_readme():
 
 
     readme = modified_lines[0:bash_start] + script_filenames_bash
-    readme = modified_lines.join('\n')
+    readme = '\n'.join(modified_lines)
 
 
     print(readme)
