@@ -19,21 +19,78 @@ def update_readme():
     with open('README.md', 'r') as f:
         readme = f.read()
 
+    # output list
+    modified_lines = []
+
     # Extract script filenames
-    script_filenames = []
-    for line in readme.split('\n'):
+    script_filenames_bash = []
+    script_filenames_perl = []
+    script_filenames_python = []
+    script_filenames_powershell = []
+    script_filenames_batch = []
+    
+    for i, line in enumerate(readme.split('\n')):
         print(line)
-        if line.startswith('`python') and line.endswith('`'):
-            script_filenames.append(line[9:-4])
+
+        # control flow empties the language sections, collects the script filenames to separate lists per language
+
+        if line.startswith('### Bash'):
+            script_filenames_bash.append(line[3:])
+
+        elif line.startswith('### Perl'):
+            script_filenames_perl.append(line[3:])
+        
+        elif line.startswith('### Python'):
+            script_filenames_python.append(line[3:])
+
+        elif line.startswith('### PowerShell'):
+            script_filenames_powershell.append(line[3:])
+
+        elif line.startswith('### Batch'):
+            script_filenames_batch.append(line[3:])
+
+        else:
+            modified_lines.append(line)
 
     # Sort the script filenames alphabetically
-    script_filenames.sort()
+    script_filenames_bash.sort()
+    script_filenames_perl.sort()
+    script_filenames_python.sort()
+    script_filenames_powershell.sort()
+    script_filenames_batch.sort()
 
-    # Rewrite the language section
-    readme = readme.replace('`python\n# List of scripts\n`',
-                            '`python\n# List of scripts (alphabetical order)\n`')
-    for script_filename in script_filenames:
-        readme += f'`{script_filename}`\n'
+    bash_start = 0
+    perl_start = 0
+    python_start = 0
+    powershell_start = 0
+    batch_start = 0
+    
+    for i, line in enumerate(modified_lines):
+        print(line)
+
+        # control flow empties the language sections, collects the script filenames to separate lists per language
+
+        if line.startswith('### Bash'):
+            bash_start = i
+
+        elif line.startswith('### Perl'):
+            perl_start = i
+        
+        elif line.startswith('### Python'):
+            python_start = i
+
+        elif line.startswith('### PowerShell'):
+            powershell_start = i
+
+        elif line.startswith('### Batch'):
+            batch_start = i
+
+
+    readme = modified_lines[0:bash_start] + script_filenames_bash.split('\n')
+    readme = modified_lines.join('\n')
+
+
+    print(readme)
 
     # Write the updated README.md to file
     with open('README.md', 'w') as f:
