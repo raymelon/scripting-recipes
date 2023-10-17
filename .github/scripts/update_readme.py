@@ -28,29 +28,53 @@ def update_readme():
     script_filenames_python = []
     script_filenames_powershell = []
     script_filenames_batch = []
+
+    section_pointer = ''
     
     for i, line in enumerate(readme.split('\n')):
         print(line)
 
-        # control flow empties the language sections, collects the script filenames to separate lists per language
+        # control flow marks which language section the loop is
 
         if line.startswith('### Bash'):
-            script_filenames_bash.append(line[3:])
+            section_pointer = 'Bash'
 
         elif line.startswith('### Perl'):
-            script_filenames_perl.append(line[3:])
+            section_pointer = 'Perl'
         
         elif line.startswith('### Python'):
-            script_filenames_python.append(line[3:])
+            section_pointer = 'Python'
 
         elif line.startswith('### PowerShell'):
-            script_filenames_powershell.append(line[3:])
+            section_pointer = 'PowerShell'
 
         elif line.startswith('### Batch'):
-            script_filenames_batch.append(line[3:])
+            section_pointer = 'Batch'
 
+
+        # control flow empties the language sections, collects the script filenames to separate lists per language
+
+        if line.startswith('-'):
+            if section_pointer == 'Bash':
+                script_filenames_bash.append(line[3:])
+    
+            elif section_pointer == 'Perl':
+                script_filenames_perl.append(line[3:])
+    
+            elif section_pointer == 'Python':
+                script_filenames_python.append(line[3:])
+    
+            elif section_pointer == 'PowerShell':
+                script_filenames_powershell.append(line[3:])
+    
+            elif section_pointer == 'Batch':
+                script_filenames_batch.append(line[3:])
+    
+            else:
+                modified_lines.append(line)
         else:
             modified_lines.append(line)
+            section_pointer = ''
 
     # Sort the script filenames alphabetically
     script_filenames_bash.sort()
