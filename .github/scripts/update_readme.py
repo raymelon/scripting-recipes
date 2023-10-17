@@ -51,6 +51,9 @@ def update_readme():
         elif line.startswith('### Batch'):
             section_pointer = 'Batch'
 
+        elif line.startswith('Make sure to read'):
+            section_pointer = ''
+
 
         # control flow empties the language sections, collects the script filenames to separate lists per language
 
@@ -72,12 +75,8 @@ def update_readme():
     
             else:
                 modified_lines.append(line)
-                
-        elif line.startswith('\n'):
-            modified_lines.append(line)
         else:
             modified_lines.append(line)
-            section_pointer = ''
 
     # Sort the script filenames alphabetically
     script_filenames_bash.sort()
