@@ -66,7 +66,7 @@ def update_readme():
     batch_start = 0
     
     for i, line in enumerate(modified_lines):
-        print(line)
+        # print(line)
 
         # control flow empties the language sections, collects the script filenames to separate lists per language
 
@@ -85,7 +85,9 @@ def update_readme():
         elif line.startswith('### Batch'):
             batch_start = i
 
-
+    print(bash_start)
+    print(script_filenames_bash)
+    
     readme = modified_lines[0:bash_start] + script_filenames_bash
     readme = '\n'.join(modified_lines)
 
