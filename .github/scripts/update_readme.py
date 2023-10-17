@@ -86,7 +86,7 @@ def update_readme():
             batch_start = i
 
 
-    readme = modified_lines[0:bash_start] + script_filenames_bash.split('\n')
+    readme = modified_lines[0:bash_start] + script_filenames_bash
     readme = modified_lines.join('\n')
 
 
