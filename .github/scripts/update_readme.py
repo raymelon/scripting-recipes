@@ -72,6 +72,9 @@ def update_readme():
     
             else:
                 modified_lines.append(line)
+                
+        elif line.startswith('\n'):
+            modified_lines.append(line)
         else:
             modified_lines.append(line)
             section_pointer = ''
