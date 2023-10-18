@@ -33,17 +33,17 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Bash 🐚
 
-- [livetimr](raymelon/livetimr)
 - [automated_database_backup_script.bash](PreciousEddy/automated_database_backup_script.bash)
 - [backup_Script_with_timestamped-files.bash](PreciousEddy/backup_Script_with_timestamped-files.bash)
 - [Directory_listing_script.bash](PreciousEddy/Directory_listing_script.bash)
 - [Disk_Usage_script.bash](PreciousEddy/Disk_Usage_script.bash)
 - [file_backup_script.bash](PreciousEddy/file_backup_script.bash)
+- [livetimr](raymelon/livetimr)
 - [Process_Check_Script.bash](PreciousEddy/Process_Check_Script.bash)
+- [remove_branches.bash](jsnoob921/remove_branches.bash)
 - [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
 - [test_bash.bash](raymelon/test_bash.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
-- [remove_branches.bash](jsnoob921/remove_branches.bash)
 
 ### Perl 🐪
 
@@ -54,12 +54,12 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Python 🐍
 
-- [Youtube_Downloader.py](PreciousEddy/Python/Youtube_Downloader.py)
-- [test_python3.py](raymelon/test_python3.py)
 - [Data_Migration_Script.py](PreciousEddy/Python/Data_Migration_Script.py)
 - [Log_Rotation_Script.py](PreciousEddy/Python/Log_Rotation_Script.py)
 - [Server_Provisioning_Script.py](PreciousEddy/Python/Server_Provisioning_Script.py)
 - [simple_fzf_todo.bash](tusuii/simple_fzf_todo.bash)
+- [test_python3.py](raymelon/test_python3.py)
+- [Youtube_Downloader.py](PreciousEddy/Python/Youtube_Downloader.py)
 
 ### PowerShell 💻
 
