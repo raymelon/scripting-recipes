@@ -61,4 +61,11 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Batch 📦
 
+- [Automated_Software_Installation.bat](Chibuike-edmund/Batch/Automated_Software_Installation.bat)
+- [check_Disk_Space.bat](Chibuike-edmund/Batch/check_Disk_Space.bat)
+- [Check_Internet_Connection.bat](Chibuike-edmund/Batch/Check_Internet_Connection.bat)
+- [File_backup.bat](Chibuike-edmund/Batch/File_backup.bat)
+- [List_Files_and_Directories.bat](Chibuike-edmund/Batch/List_Files_and_Directories.bat)
+- [user_input.bat](Chibuike-edmund/Batch/user_input.bat)
+
 Make sure to read more about each script and feel free to contribute your own! Happy scripting! 🚀
