@@ -63,6 +63,10 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### PowerShell 💻
 
+- [power_plan_switcher.ps1](raymelon/power_plan_switcher.ps1)
+
 ### Batch 📦
+
+- [test-batch.bat](raymelon/test-batch.bat)
 
 Make sure to read more about each script and feel free to contribute your own! Happy scripting! 🚀
