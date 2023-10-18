@@ -114,7 +114,7 @@ def update_readme():
     print(bash_start)
     print(script_filenames_bash)
     
-    modified_lines = modified_lines[0:bash_start + 2] + script_filenames_bash + modified_lines[perl_start - 2:perl_start + 2] + script_filenames_perl + modified_lines[python_start - 2:python_start + 2] + script_filenames_python + modified_lines[powershell_start - 2:powershell_start + 2] + script_filenames_powershell + modified_lines[batch_start - 2:batch_start + 2] + script_filenames_batch
+    modified_lines = modified_lines[0:bash_start + 1] + script_filenames_bash + modified_lines[perl_start - 2:perl_start + 1] + script_filenames_perl + modified_lines[python_start - 2:python_start + 1] + script_filenames_python + modified_lines[powershell_start - 2:powershell_start + 1] + script_filenames_powershell + modified_lines[batch_start - 2:batch_start + 1] + script_filenames_batch
     readme = '\n'.join(modified_lines)
 
 
