@@ -30,4 +30,4 @@ jobs:
         git status
         git add README.md
         git commit -m "GitHub Actions: Update README to sort language sections alphabetically"
-        
+        git push
