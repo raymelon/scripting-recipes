@@ -63,8 +63,8 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### PowerShell 💻
 
-- [test-powershell.ps1.ps1](raymelon/test-powershell.ps1.ps1)
 - [power_plan_switcher.ps1](raymelon/power_plan_switcher.ps1)
+- [test-powershell.ps1.ps1](raymelon/test-powershell.ps1.ps1)
 
 ### Batch 📦
 
