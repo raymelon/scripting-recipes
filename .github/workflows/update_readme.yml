@@ -11,13 +11,33 @@ jobs:
 
     steps:
     - name: Checkout Repository
+<<<<<<< HEAD
       uses: actions/checkout@v2
 
     - name: Set up Python
       uses: actions/setup-python@v2
+=======
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+>>>>>>> refs/remotes/origin/main
       with:
         python-version: 3.x # Use the version of Python you need
 
     
     - name: Run Script
       run: python .github/scripts/update_readme.py
+<<<<<<< HEAD
+=======
+
+    - name: Update Repository
+      if: github.event_name == 'push'
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "username@users.noreply.github.com"
+        git status
+        git add README.md
+        git commit -m "GitHub Actions: Update README to sort language sections alphabetically"
+        
+>>>>>>> refs/remotes/origin/main

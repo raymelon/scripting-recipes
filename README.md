@@ -4,6 +4,7 @@ Welcome to our community collection of script recipes! Whether you're working wi
 
 **Feel free to contribute your script recipes!** To do so, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
+<<<<<<< HEAD
 ## 🔍 Finding a Script?
 
 ### 📚 Table of Contents
@@ -18,6 +19,22 @@ Welcome to our community collection of script recipes! Whether you're working wi
 ### This Repository is Participating in [Hacktoberfest 2023](https://hacktoberfest.com/participation/#contributors) 🎉
 
 To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+=======
+## 🛠️ Contribute Your Favorite Script Recipe
+
+### This Repository is Participating in [Hacktoberfest 2023](https://hacktoberfest.com/participation/#contributors) 🎉
+
+To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## 🔍 Finding a Script?
+
+### 📚 Table of Contents
+
+- [Bash](#bash-) 🐚
+- [Perl](#perl-) 🐪
+- [Python](#python-) 🐍
+- [PowerShell](#powershell-) 💻
+>>>>>>> refs/remotes/origin/main
 
 ## ❓ Have Questions?
 
@@ -33,6 +50,10 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Bash 🐚
 
+<<<<<<< HEAD
+=======
+- [livetimr](raymelon/livetimr)
+>>>>>>> refs/remotes/origin/main
 - [automated_database_backup_script.bash](PreciousEddy/automated_database_backup_script.bash)
 - [backup_Script_with_timestamped-files.bash](PreciousEddy/backup_Script_with_timestamped-files.bash)
 - [Directory_listing_script.bash](PreciousEddy/Directory_listing_script.bash)
@@ -42,6 +63,10 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
 - [test_bash.bash](raymelon/test_bash.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
+<<<<<<< HEAD
+=======
+- [remove_branches.bash](jsnoob921/remove_branches.bash)
+>>>>>>> refs/remotes/origin/main
 
 ### Perl 🐪
 
@@ -52,6 +77,11 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Python 🐍
 
+<<<<<<< HEAD
+=======
+- [Youtube_Downloader.py](PreciousEddy/Python/Youtube_Downloader.py)
+- [test_python3.py](raymelon/test_python3.py)
+>>>>>>> refs/remotes/origin/main
 - [Data_Migration_Script.py](PreciousEddy/Python/Data_Migration_Script.py)
 - [Log_Rotation_Script.py](PreciousEddy/Python/Log_Rotation_Script.py)
 - [Server_Provisioning_Script.py](PreciousEddy/Python/Server_Provisioning_Script.py)
@@ -61,6 +91,7 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Batch 📦
 
+<<<<<<< HEAD
 - [Automated_Software_Installation.bat](Chibuike-edmund/Batch/Automated_Software_Installation.bat)
 - [check_Disk_Space.bat](Chibuike-edmund/Batch/check_Disk_Space.bat)
 - [Check_Internet_Connection.bat](Chibuike-edmund/Batch/Check_Internet_Connection.bat)
@@ -68,4 +99,6 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [List_Files_and_Directories.bat](Chibuike-edmund/Batch/List_Files_and_Directories.bat)
 - [user_input.bat](Chibuike-edmund/Batch/user_input.bat)
 
+=======
+>>>>>>> refs/remotes/origin/main
 Make sure to read more about each script and feel free to contribute your own! Happy scripting! 🚀
