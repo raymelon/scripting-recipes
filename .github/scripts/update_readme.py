@@ -121,7 +121,6 @@ def update_readme():
     modified_lines = modified_lines[0:bash_start + 2] + script_filenames_bash + modified_lines[perl_start - 1:perl_start + 2] + script_filenames_perl + modified_lines[python_start - 1:python_start + 2] + script_filenames_python + modified_lines[powershell_start - 1:powershell_start + 2] + script_filenames_powershell + modified_lines[batch_start - 1:batch_start + 2] + script_filenames_batch + modified_lines[batch_end - 1:]
     readme = '\n'.join(modified_lines)
 
-
     print(readme)
 
     # Write the updated README.md to file
