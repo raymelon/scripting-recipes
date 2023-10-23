@@ -112,6 +112,7 @@ def update_readme():
     python_start = 0
     powershell_start = 0
     batch_start = 0
+    batch_end = 0
     
     for i, line in enumerate(modified_lines):
         # print(line)
@@ -133,12 +134,14 @@ def update_readme():
         elif line.startswith('### Batch'):
             batch_start = i
 
+        elif line.startswith('Make sure to read'):
+            batch_end = i
+
     print(bash_start)
     print(script_filenames_bash)
     
-    modified_lines = modified_lines[0:bash_start + 2] + script_filenames_bash + modified_lines[perl_start - 2:perl_start + 2] + script_filenames_perl + modified_lines[python_start - 2:python_start + 2] + script_filenames_python + modified_lines[powershell_start - 2:powershell_start + 2] + script_filenames_powershell + modified_lines[batch_start - 2:batch_start + 2] + script_filenames_batch
+    modified_lines = modified_lines[0:bash_start + 2] + script_filenames_bash + modified_lines[perl_start - 1:perl_start + 2] + script_filenames_perl + modified_lines[python_start - 1:python_start + 2] + script_filenames_python + modified_lines[powershell_start - 1:powershell_start + 2] + script_filenames_powershell + modified_lines[batch_start - 1:batch_start + 2] + script_filenames_batch + modified_lines[batch_end - 1:]
     readme = '\n'.join(modified_lines)
-
 
     print(readme)
 >>>>>>> refs/remotes/origin/main

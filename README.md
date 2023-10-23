@@ -4,7 +4,6 @@ Welcome to our community collection of script recipes! Whether you're working wi
 
 **Feel free to contribute your script recipes!** To do so, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
-<<<<<<< HEAD
 ## 🔍 Finding a Script?
 
 ### 📚 Table of Contents
@@ -34,7 +33,6 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Perl](#perl-) 🐪
 - [Python](#python-) 🐍
 - [PowerShell](#powershell-) 💻
->>>>>>> refs/remotes/origin/main
 
 ## ❓ Have Questions?
 
@@ -50,23 +48,20 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Bash 🐚
 
-<<<<<<< HEAD
-=======
 - [livetimr](raymelon/livetimr)
->>>>>>> refs/remotes/origin/main
 - [automated_database_backup_script.bash](PreciousEddy/automated_database_backup_script.bash)
 - [backup_Script_with_timestamped-files.bash](PreciousEddy/backup_Script_with_timestamped-files.bash)
 - [Directory_listing_script.bash](PreciousEddy/Directory_listing_script.bash)
 - [Disk_Usage_script.bash](PreciousEddy/Disk_Usage_script.bash)
 - [file_backup_script.bash](PreciousEddy/file_backup_script.bash)
+- [livetimr](raymelon/livetimr)
 - [Process_Check_Script.bash](PreciousEddy/Process_Check_Script.bash)
+- [remove_branches.bash](jsnoob921/remove_branches.bash)
 - [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
 - [test_bash.bash](raymelon/test_bash.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
-<<<<<<< HEAD
-=======
 - [remove_branches.bash](jsnoob921/remove_branches.bash)
->>>>>>> refs/remotes/origin/main
+
 
 ### Perl 🐪
 
@@ -76,29 +71,27 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [web_server_Log_Analyzer.pl](PreciousEddy/Perl/web_server_Log_Analyzer.pl)
 
 ### Python 🐍
-
-<<<<<<< HEAD
-=======
 - [Youtube_Downloader.py](PreciousEddy/Python/Youtube_Downloader.py)
 - [test_python3.py](raymelon/test_python3.py)
->>>>>>> refs/remotes/origin/main
 - [Data_Migration_Script.py](PreciousEddy/Python/Data_Migration_Script.py)
 - [Log_Rotation_Script.py](PreciousEddy/Python/Log_Rotation_Script.py)
 - [Server_Provisioning_Script.py](PreciousEddy/Python/Server_Provisioning_Script.py)
 - [simple_fzf_todo.bash](tusuii/simple_fzf_todo.bash)
+- [test_python3.py](raymelon/test_python3.py)
+- [Youtube_Downloader.py](PreciousEddy/Python/Youtube_Downloader.py)
 
 ### PowerShell 💻
 
-### Batch 📦
+- [power_plan_switcher.ps1](raymelon/power_plan_switcher.ps1)
+- [test-powershell.ps1.ps1](raymelon/test-powershell.ps1.ps1)
 
-<<<<<<< HEAD
+### Batch 📦
 - [Automated_Software_Installation.bat](Chibuike-edmund/Batch/Automated_Software_Installation.bat)
 - [check_Disk_Space.bat](Chibuike-edmund/Batch/check_Disk_Space.bat)
 - [Check_Internet_Connection.bat](Chibuike-edmund/Batch/Check_Internet_Connection.bat)
 - [File_backup.bat](Chibuike-edmund/Batch/File_backup.bat)
 - [List_Files_and_Directories.bat](Chibuike-edmund/Batch/List_Files_and_Directories.bat)
 - [user_input.bat](Chibuike-edmund/Batch/user_input.bat)
+- [test-batch.bat](raymelon/test-batch.bat)
 
-=======
->>>>>>> refs/remotes/origin/main
 Make sure to read more about each script and feel free to contribute your own! Happy scripting! 🚀
