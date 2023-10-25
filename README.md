@@ -42,9 +42,9 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Process_Check_Script.bash](PreciousEddy/Process_Check_Script.bash)
 - [remove_branches.bash](jsnoob921/remove_branches.bash)
 - [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
+- [simple_fzf_file_manager.bash](tusuii/simple_file_manager.bash)
 - [test_bash.bash](raymelon/test_bash.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
-- [simple_fzf_file_manager.bash](tusuii/simple_file_manager.bash)
 
 ### Perl 🐪
 
