@@ -44,6 +44,7 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
 - [test_bash.bash](raymelon/test_bash.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
+- [simple_fzf_file_manager.bash](tusuii/simple_file_manager.bash)
 
 ### Perl 🐪
 
