@@ -78,6 +78,13 @@ def update_readme():
         else:
             modified_lines.append(line)
 
+    # Ensure uniqueness
+    script_filenames_bash = list(set(script_filenames_bash))
+    script_filenames_perl = list(set(script_filenames_perl))
+    script_filenames_python = list(set(script_filenames_python))
+    script_filenames_powershell = list(set(script_filenames_powershell))
+    script_filenames_batch = list(set(script_filenames_batch))
+
     # Sort the script filenames alphabetically
     script_filenames_bash.sort(key=str.lower)
     script_filenames_perl.sort(key=str.lower)
