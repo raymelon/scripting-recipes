@@ -1,10 +1,7 @@
 # .github/scripts/update_readme.py
 
-<<<<<<< HEAD
-=======
 import os
 
->>>>>>> refs/remotes/origin/main
 #def update_readme():
     # Your code here to:
     # - Parse README.md
@@ -17,30 +14,11 @@ import os
 
 
 def update_readme():
-<<<<<<< HEAD
-=======
     print(os.getcwd())
->>>>>>> refs/remotes/origin/main
     # Parse README.md
     with open('README.md', 'r') as f:
         readme = f.read()
 
-<<<<<<< HEAD
-    # Extract script filenames
-    script_filenames = []
-    for line in readme.split('\n'):
-        if line.startswith('`python') and line.endswith('`'):
-            script_filenames.append(line[9:-4])
-
-    # Sort the script filenames alphabetically
-    script_filenames.sort()
-
-    # Rewrite the language section
-    readme = readme.replace('`python\n# List of scripts\n`',
-                            '`python\n# List of scripts (alphabetical order)\n`')
-    for script_filename in script_filenames:
-        readme += f'`{script_filename}`\n'
-=======
     # output list
     modified_lines = []
 
@@ -144,7 +122,6 @@ def update_readme():
     readme = '\n'.join(modified_lines)
 
     print(readme)
->>>>>>> refs/remotes/origin/main
 
     # Write the updated README.md to file
     with open('README.md', 'w') as f:
