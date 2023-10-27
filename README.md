@@ -33,11 +33,15 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Bash 🐚
 
+- [animation_bash.bash](kanchana66/animation_bash.bash)
 - [automated_database_backup_script.bash](PreciousEddy/automated_database_backup_script.bash)
 - [backup_Script_with_timestamped-files.bash](PreciousEddy/backup_Script_with_timestamped-files.bash)
+- [calculator.bash](kanchana66/calculator.bash)
 - [Directory_listing_script.bash](PreciousEddy/Directory_listing_script.bash)
 - [Disk_Usage_script.bash](PreciousEddy/Disk_Usage_script.bash)
 - [file_backup_script.bash](PreciousEddy/file_backup_script.bash)
+- [file_management.bash](kanchana66/file_management.bash)
+- [guessing_game.bash](kanchana66/guessing_game.bash)
 - [livetimr](raymelon/livetimr)
 - [Process_Check_Script.bash](PreciousEddy/Process_Check_Script.bash)
 - [remove_branches.bash](jsnoob921/remove_branches.bash)
@@ -46,10 +50,6 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [test_bash.bash](raymelon/test_bash.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
 - [user_navigation_system.bash](kanchana66/user_navigation_system.bash)
-- [file_management.bash](kanchana66/file_management.bash)
-- [guessing_game.bash](kanchana66/guessing_game.bash)
-- [animation_bash.bash](kanchana66/animation_bash.bash)
-- [calculator.bash](kanchana66/calculator.bash)
 
 ### Perl 🐪
 
