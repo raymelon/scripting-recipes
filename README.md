@@ -45,6 +45,11 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [simple_fzf_file_manager.bash](tusuii/simple_file_manager.bash)
 - [test_bash.bash](raymelon/test_bash.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
+- [user_navigation_system.bash](kanchana66/user_navigation_system.bash)
+- [file_management.bash](kanchana66/file_management.bash)
+- [guessing_game.bash](kanchana66/guessing_game.bash)
+- [animation_bash.bash](kanchana66/animation_bash.bash)
+- [calculator.bash](kanchana66/calculator.bash)
 
 ### Perl 🐪
 
