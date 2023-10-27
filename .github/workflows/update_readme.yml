@@ -11,10 +11,6 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
       uses: actions/checkout@v3
 
     - name: Set up Python
@@ -25,6 +21,7 @@ jobs:
     
     - name: Run Script
       run: python .github/scripts/update_readme.py
+
     - name: Update Repository
       if: github.event_name == 'push'
       run: |
@@ -33,3 +30,4 @@ jobs:
         git status
         git add README.md
         git commit -m "GitHub Actions: Update README to sort language sections alphabetically"
+        git push
