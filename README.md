@@ -58,9 +58,7 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [file_management.bash](kanchana66/file_management.bash)
 - [guessing_game.bash](kanchana66/guessing_game.bash)
 - [livetimr](raymelon/livetimr)
-- [livetimr](raymelon/livetimr)
 - [Process_Check_Script.bash](PreciousEddy/Process_Check_Script.bash)
-- [remove_branches.bash](jsnoob921/remove_branches.bash)
 - [remove_branches.bash](jsnoob921/remove_branches.bash)
 - [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
 - [simple_fzf_file_manager.bash](tusuii/simple_file_manager.bash)
@@ -82,8 +80,6 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Server_Provisioning_Script.py](PreciousEddy/Python/Server_Provisioning_Script.py)
 - [simple_fzf_todo.bash](tusuii/simple_fzf_todo.bash)
 - [test_python3.py](raymelon/test_python3.py)
-- [test_python3.py](raymelon/test_python3.py)
-- [Youtube_Downloader.py](PreciousEddy/Python/Youtube_Downloader.py)
 - [Youtube_Downloader.py](PreciousEddy/Python/Youtube_Downloader.py)
 
 ### PowerShell 💻
