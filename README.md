@@ -4,6 +4,21 @@ Welcome to our community collection of script recipes! Whether you're working wi
 
 **Feel free to contribute your script recipes!** To do so, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## 🔍 Finding a Script?
+
+### 📚 Table of Contents
+
+- [Bash](#bash) 🐚
+- [Perl](#perl) 🐪
+- [Python](#python) 🐍
+- [PowerShell](#powershell) 💻
+
+## 🛠️ Contribute Your Favorite Script Recipe
+
+### This Repository is Participating in [Hacktoberfest 2023](https://hacktoberfest.com/participation/#contributors) 🎉
+
+To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+=======
 ## 🛠️ Contribute Your Favorite Script Recipe
 
 ### This Repository is Participating in [Hacktoberfest 2023](https://hacktoberfest.com/participation/#contributors) 🎉
@@ -33,23 +48,23 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Bash 🐚
 
+- [animation_bash.bash](kanchana66/animation_bash.bash)
 - [automated_database_backup_script.bash](PreciousEddy/automated_database_backup_script.bash)
 - [backup_Script_with_timestamped-files.bash](PreciousEddy/backup_Script_with_timestamped-files.bash)
+- [calculator.bash](kanchana66/calculator.bash)
 - [Directory_listing_script.bash](PreciousEddy/Directory_listing_script.bash)
 - [Disk_Usage_script.bash](PreciousEddy/Disk_Usage_script.bash)
 - [file_backup_script.bash](PreciousEddy/file_backup_script.bash)
+- [file_management.bash](kanchana66/file_management.bash)
+- [guessing_game.bash](kanchana66/guessing_game.bash)
 - [livetimr](raymelon/livetimr)
 - [Process_Check_Script.bash](PreciousEddy/Process_Check_Script.bash)
 - [remove_branches.bash](jsnoob921/remove_branches.bash)
 - [remove_stale_git_branches.sh](Sylphritz/remove_stale_git_branches.sh)
+- [simple_fzf_file_manager.bash](tusuii/simple_file_manager.bash)
 - [test_bash.bash](raymelon/test_bash.bash)
 - [user_account_management_script.bash](PreciousEddy/user_account_management_script.bash)
 - [user_navigation_system.bash](kanchana66/user_navigation_system.bash)
-- [file_management.bash](kanchana66/file_management.bash)
-- [guessing_game.bash](kanchana66/guessing_game.bash)
-- [animation_bash.bash](kanchana66/animation_bash.bash)
-- [calculator.bash](kanchana66/calculator.bash)
-- [loarding_animation.sh](kanchana66/loarding_animation.sh)
 
 ### Perl 🐪
 
@@ -74,6 +89,12 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Batch 📦
 
+- [Automated_Software_Installation.bat](Chibuike-edmund/Batch/Automated_Software_Installation.bat)
+- [check_Disk_Space.bat](Chibuike-edmund/Batch/check_Disk_Space.bat)
+- [Check_Internet_Connection.bat](Chibuike-edmund/Batch/Check_Internet_Connection.bat)
+- [File_backup.bat](Chibuike-edmund/Batch/File_backup.bat)
+- [List_Files_and_Directories.bat](Chibuike-edmund/Batch/List_Files_and_Directories.bat)
 - [test-batch.bat](raymelon/test-batch.bat)
+- [user_input.bat](Chibuike-edmund/Batch/user_input.bat)
 
 Make sure to read more about each script and feel free to contribute your own! Happy scripting! 🚀
