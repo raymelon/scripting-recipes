@@ -49,6 +49,7 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 - [guessing_game.bash](kanchana66/guessing_game.bash)
 - [animation_bash.bash](kanchana66/animation_bash.bash)
 - [calculator.bash](kanchana66/calculator.bash)
+- [loarding_animation.sh](kanchana66/loarding_animation.sh)
 
 ### Perl 🐪
 
