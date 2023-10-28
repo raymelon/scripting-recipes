@@ -76,12 +76,12 @@ To contribute, follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 ### Python 🐍
 
 - [Data_Migration_Script.py](PreciousEddy/Python/Data_Migration_Script.py)
+- [guessing_game.py](kanchana66/guessing_game.py)
 - [Log_Rotation_Script.py](PreciousEddy/Python/Log_Rotation_Script.py)
 - [Server_Provisioning_Script.py](PreciousEddy/Python/Server_Provisioning_Script.py)
 - [simple_fzf_todo.bash](tusuii/simple_fzf_todo.bash)
 - [test_python3.py](raymelon/test_python3.py)
 - [Youtube_Downloader.py](PreciousEddy/Python/Youtube_Downloader.py)
-- [guessing_game.py](kanchana66/guessing_game.py)
 
 ### PowerShell 💻
 
